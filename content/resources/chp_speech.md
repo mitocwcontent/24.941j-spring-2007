@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-941j-the-lexicon-and-its-features-spring-2007/8d2d42dfba307d38790b4c340dc58dc7_chp_speech.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+resourcetype: Image
+title: chp_speech.jpg
+uid: 8d2d42df-ba30-7d38-790b-4c340dc58dc7
+---
